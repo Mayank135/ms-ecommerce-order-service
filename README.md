@@ -5,7 +5,7 @@ This is the Order Service of the `microservices-ecommerce` project.
 - product-service: https://github.com/Mayank135/ms-ecommerce-product-service
 - order-service: https://github.com/Mayank135/ms-ecommerce-order-service
 - inventory-service: https://github.com/Mayank135/ms-ecommerce-inventory-service
-- api-gateway:
+- api-gateway: https://github.com/Mayank135/ms-ecommerce-api-gateway
 
 ### Tech Stack:
 - Java 17
