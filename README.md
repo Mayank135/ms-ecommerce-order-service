@@ -1,7 +1,7 @@
 # Order Service - Microservices Architecture
 
 This is the Order Service of the `microservices-ecommerce` project.
-4 of the following microservices forms a part of ecommerce project based on microdervices archietecture:
+4 of the following microservices forms a part of ecommerce project based on microservices architecture:
 - product-service: https://github.com/Mayank135/ms-ecommerce-product-service
 - order-service: https://github.com/Mayank135/ms-ecommerce-order-service
 - inventory-service: https://github.com/Mayank135/ms-ecommerce-inventory-service
